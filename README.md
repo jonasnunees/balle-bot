@@ -47,7 +47,7 @@ A página agora conta com **design responsivo completo**, adaptando-se perfeitam
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/jonasnunees/balle-bot-landing-page.git
+git clone https://github.com/jonasnunees/balle-bot.git
 ```
 
 2. Navegue até a pasta do projeto
@@ -57,7 +57,7 @@ git clone https://github.com/jonasnunees/balle-bot-landing-page.git
 ## 📁 Estrutura do Projeto
 
 ```
-balle-bot-landing-page/
+balle-bot/
 │
 ├── index.html
 ├── css/
